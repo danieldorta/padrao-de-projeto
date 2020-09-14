@@ -22,9 +22,9 @@ retornam os resultados para o cliente.
  Sua aplicação é eficaz quando estamos falando de uma estrutura de árvore, caso contrário, o composite não é a melhor opção. Além disso, vale lembrar 
 que o composite é muito útil por tratar todos os elementos de forma individual e uniforme.
 
- ## Código exemplo:
+ ## Exemplos de códigos:
  
- [Link para ir para o código](https://github.com/danieldorta/padrao-de-projeto/tree/master/composite/exemplo)
+ [Link para ir para o código 1](https://github.com/danieldorta/padrao-de-projeto/tree/master/composite/exemplo)
  
 O código exemplo apresentado na pasta exemplo foi retirado do site [Padrões de Projeto de Software](http://padroesdeprojetodesoftware.blogspot.com/2012/06/nome-e-classificacao-do-padrao.html)
 
