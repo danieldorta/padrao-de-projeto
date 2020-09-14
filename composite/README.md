@@ -10,6 +10,9 @@ Um bom exemplo para tentar entender como o composite funciona é o exército. No
 de escalão menor, e assim sucessivamente até o participante de menor escalão, que só recebe as ordens.
 
  A estrutura do composite é constituida em 4 elementos: a folha, o cliente, composite e o componente.
+ 
+ ![structure-pt-br](https://user-images.githubusercontent.com/71103252/93143533-855e7280-f6be-11ea-93f8-612a12189f54.png)
+
 A folha é o elemento base de uma árvore e executa as funções.
 O cliente trabalha com todos os elementos da árvroe atráves do componente.
 O componente por sua vez descreve a função dos elementos da árvore.
