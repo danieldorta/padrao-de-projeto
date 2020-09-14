@@ -24,3 +24,6 @@ O código exemplo apresentado na pasta exemplo foi retirado do site [Padrões de
 
 Nesse exemplo temos algumas funções, entre elas, a função de adicionar estilos de camisas, marcas, remover camisas, etc. Segue uma imagem da estrutura desse exemplo (imagem
 retirada do mesmo site apresentado acima).
+
+![Sem+título](https://user-images.githubusercontent.com/71103252/93113738-f9355680-f68f-11ea-8429-920be2fac936.png)
+
