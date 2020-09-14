@@ -21,9 +21,9 @@ public abstract class CamisetaComponent {
 
  public void remover(String marcaDaCamiseta) throws Exception {
   throw new Exception("Erro");
-
+ }
 
  public CamisetaComponent getCamiseta(String marcaDacamiseta) throws Exception {
-  throw new Exception("Erro);
+  throw new Exception("Erro");
  }
 }
