@@ -1,6 +1,6 @@
 # Composite
 
-> O composite é usado para representar hierarquias de componentes da interface do usuário ou o código que funciona com grafos.
+ O composite é usado para representar hierarquias de componentes da interface do usuário ou o código que funciona com grafos.
 
 > O Composite é reconhecido pelos seus métodos componamentais, ele transforma uma instância do mesmo tipo (abstrato/interface) em outra estrutura, em árvore
 e assim, permite que você trabalhe nessa estrutura como objetos individuais.
