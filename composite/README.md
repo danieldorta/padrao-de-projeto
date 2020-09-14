@@ -33,3 +33,8 @@ retirada do mesmo site apresentado acima).
 
 ![Sem+título](https://user-images.githubusercontent.com/71103252/93113738-f9355680-f68f-11ea-8429-920be2fac936.png)
 
+[Link para ir para o código 2](https://github.com/danieldorta/padrao-de-projeto/tree/master/composite/exemplo2)
+
+Nesse código temos mais um exemplo da implementação do composite, só que dessa vez em um modelo dos componentes de um computador, esse exemplo foi retirado de um fórum 
+chamado [GUJ](https://www.guj.com.br/t/exemplo-de-composite/112334)
+
