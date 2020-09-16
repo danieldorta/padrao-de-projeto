@@ -23,3 +23,5 @@ Na estrutura desse método temos:
 ![structure](https://user-images.githubusercontent.com/71103252/93352937-c1eeb300-f811-11ea-9ab0-2ba33345ad16.png)
 
 ## Sample code 
+
+[Link para o código exemplo apresentado em aula](https://github.com/danieldorta/padrao-de-projeto/tree/master/Template%20Method/exemplo)
