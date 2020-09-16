@@ -25,3 +25,7 @@ Na estrutura desse método temos:
 
 [Link para o código exemplo apresentado em aula](https://github.com/danieldorta/padrao-de-projeto/tree/master/Template%20Method/exemplo)
 
+[Link para o código exemplo 2](https://github.com/danieldorta/padrao-de-projeto/tree/master/Template%20Method/exemplo2)
+
+O código exemplo 2 foi retirado do site [DevMedia](https://www.devmedia.com.br/padrao-de-projeto-template-method-em-java/26656) e nele ele explica que o código apresentado possui uma classe principal "Treinos" e nela contém o método "treinoDiario", método no qual tem a função de ser um algoritmo a ser seguido pelas outra classes que o extendem. Porém, duas classes, "TreinoNoMeioDaTemporada" e "TreinoNoInicioDaTemporada" implementam métodos abstratos, esses métodos podem ser alterados. Enquanto isso, os métodos que são definidos pela classe base não podem ser alterados. 
+
