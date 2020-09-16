@@ -11,6 +11,7 @@ Por exemplo, imagine que existe um usuário que tenta extrair de um programa arq
 
 ## Applicability
 Usado para implementar partes inváriaveis de um algoritmo e assim, deixar que subclasses implementem corportamentos váriaveis. Usado também para tentar controlar o tamanho de determinadas subclasses. Evitar duplicação do código colocando comportamentos comuns entre as subclasses em uma subclasse comum.
+Como foi dito no exemplo do DOC e do PDF, o template method é usado quando várias classes tem algoritmos muito parecidos um com o outro. E também ele é utilizado para quando você que clientes específicos estendam partes especificas de um algoritmo e não ele todo.
 
 ## Structure and Participants
 Na estrutura desse método temos:
