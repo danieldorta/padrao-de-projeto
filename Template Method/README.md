@@ -18,7 +18,7 @@ Na estrutura desse métodos temos:
 --Classe concretas: que tem o direito de sobrescrever todas as etapas, no entanto, não podem sobrescrever o próprio método padrão 
 --Classe Abstrat: Chama alguns métodos que vão funcionar como etapas de um algoritmo.
 
-imagem
+![structure](https://user-images.githubusercontent.com/71103252/93352937-c1eeb300-f811-11ea-9ab0-2ba33345ad16.png)
 
 ## Participants
 
