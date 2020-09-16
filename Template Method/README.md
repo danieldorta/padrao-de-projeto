@@ -13,7 +13,7 @@ Por exemplo, imagine que existe um usuário que tenta extrair de um programa arq
 Usado para implementar partes inváriaveis de um algoritmo e assim, deixar que subclasses implementem corportamentos váriaveis. Usado também para tentar controlar o tamanho de determinadas subclasses.
 Evitar duplicação do código colocando comportamentos comuns entre as subclasses em uma subclasse comum.
 
-## Structure 
+## Structure and Participants
 Na estrutura desse método temos:
 
 -Classe concretas: que tem o direito de sobrescrever todas as etapas, no entanto, não podem sobrescrever o próprio método padrão 
@@ -21,7 +21,5 @@ Na estrutura desse método temos:
 -Classe Abstrat: Chama alguns métodos que vão funcionar como etapas de um algoritmo.
 
 ![structure](https://user-images.githubusercontent.com/71103252/93352937-c1eeb300-f811-11ea-9ab0-2ba33345ad16.png)
-
-## Participants
 
 ## Sample code 
