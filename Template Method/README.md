@@ -14,7 +14,7 @@ Usado para implementar partes inváriaveis de um algoritmo e assim, deixar que s
 Evitar duplicação do código colocando comportamentos comuns entre as subclasses em uma subclasse comum.
 
 ## Structure 
-Na estrutura desse métodos temos:
+Na estrutura desse método temos:
 
 -Classe concretas: que tem o direito de sobrescrever todas as etapas, no entanto, não podem sobrescrever o próprio método padrão 
 
