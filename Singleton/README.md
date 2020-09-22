@@ -20,3 +20,5 @@ O singleton possui apenas um participante, a própria classe singleton que decla
 
 ## Sample code 
 
+[Link para o exemplo apresentedado em aula](https://github.com/danieldorta/padrao-de-projeto/tree/master/Singleton/exemplo1)
+
