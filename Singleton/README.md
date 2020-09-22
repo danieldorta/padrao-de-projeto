@@ -14,6 +14,8 @@ Umas das aplicações do Singleton é quando você precisa ter um controle maior
 Além disso, o singleton impede a criação de objetos, somente pelo método especial de criação. Assim, cria um novo objeto ou retorna caso o mesmo já tenha sido criado.
 
 ## Structure and Participants
+![structure-pt-br-indexed](https://user-images.githubusercontent.com/71103252/93896552-6e73dd80-fcc7-11ea-8eff-b7131ba33bdc.png)
+
 O singleton possui apenas um participante, a própria classe singleton que declara 'getInstance' e assim retorna a instância da própria classe. O construtor do singleton é privado e deve estar escondido no código cliente e apenas com 'getInstance' o objeto será chamado.
 
 ## Sample code 
