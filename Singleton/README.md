@@ -26,7 +26,7 @@ O próximo exemplo foi retirado de um slide do professor Márcio Bueno da Faculd
 
 ![Captura de tela 2020-09-22 115141](https://user-images.githubusercontent.com/71103252/93898996-3b7f1900-fcca-11ea-84ea-c012eb7e0c98.png)
 
-[Link para o exemplo de Márcio Bueno]
+[Link para o exemplo de Márcio Bueno](https://github.com/danieldorta/padrao-de-projeto/tree/master/Singleton/exemplo2)
 
 
 
