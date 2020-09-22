@@ -22,3 +22,7 @@ O singleton possui apenas um participante, a própria classe singleton que decla
 
 [Link para o exemplo apresentedado em aula](https://github.com/danieldorta/padrao-de-projeto/tree/master/Singleton/exemplo1)
 
+O próximo exemplo foi retirado de um slide da Faculdade Católica de Pernambuco, [link](https://marciobueno.com/arquivos/ensino/poo/POO_16_Singleton.pdf), e nesse exemplo temos a implementação do singleton em um sistema de cadastro de alunos, assim como mostra a imagem abaixo:
+
+
+
