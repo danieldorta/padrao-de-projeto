@@ -16,6 +16,10 @@ O Adapter vai sempre ser utíl quando estamos reutilizando muitas subclasses, su
 Mas ele é usado principalmente, como já foi dito, quando temos um classe "X", por exemplo, mas a sua interface é incopatível com o resto do código, assim o adaptador entra e funciona como uma espécie de tradutor.
 
 ## Structure and Participants
+![structure-class-adapter](https://user-images.githubusercontent.com/71103252/94495017-ff1a5400-01c6-11eb-97bb-f4eb808ef7a2.png)
+
+
+
 
 ## Sample code 
 
