@@ -19,7 +19,7 @@ O Adapter vai sempre ser utíl quando estamos reutilizando muitas subclasses, su
 Mas ele é usado principalmente, como já foi dito, quando temos um classe "X", por exemplo, mas a sua interface é incopatível com o resto do código, assim o adaptador entra e funciona como uma espécie de tradutor.
 
 ## Structure and Participants
-Adaptador de objeto
+**Adaptador de objeto**
 
 ![structure-object-adapter](https://user-images.githubusercontent.com/71103252/94495075-2d982f00-01c7-11eb-8270-cbd9dafcab3d.png)
 
@@ -31,7 +31,7 @@ Serviço: classe na qual o cliente não pode "chamar" porque possui uma interfac
 
 Adaptador: trabalha tanto com o cliente tanto com o serviço, implementa a interface do cliente enquanto está encobrindo o objeto do serviço, ele é o tradutor.
 
-Adptador de classe
+**Adptador de classe**
 
 ![structure-class-adapter](https://user-images.githubusercontent.com/71103252/94495017-ff1a5400-01c6-11eb-97bb-f4eb808ef7a2.png)
 
