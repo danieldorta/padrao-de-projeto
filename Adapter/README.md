@@ -31,13 +31,19 @@ Serviço: classe na qual o cliente não pode "chamar" porque possui uma interfac
 
 Adaptador: trabalha tanto com o cliente tanto com o serviço, implementa a interface do cliente enquanto está encobrindo o objeto do serviço, ele é o tradutor.
 
-**Adptador de classe**
+**Adaptador de classe**
 
 ![structure-class-adapter](https://user-images.githubusercontent.com/71103252/94495017-ff1a5400-01c6-11eb-97bb-f4eb808ef7a2.png)
 
-Classse adptador: não encobre os objetos como no exemplo anterior, já que ele herda tudo dos clientes e do serviço e sua adptação acontece dentro dos métodos.
+Classse adaptador: não encobre os objetos como no exemplo anterior, já que ele herda tudo dos clientes e do serviço e sua adaptação acontece dentro dos métodos.
 
 ## Sample code 
 
+[Link para o exemplo apresentado em aula, sobre as tomadas](https://github.com/danieldorta/padrao-de-projeto/tree/master/Adapter/exemplo)
 
+Esse talvez seja o exemplo mais comum que exista quando falamos do padrão de projeto Adapter. Nele é possível notar que o adaptador herda da classe que possuí seu "target".
+
+Dentro do adaptador, o cliente precisa do TomadaDeTresPinos que será chamado em seguida no método ligarNaTomadaDeDoisPinos que na verdade está chamando o método ligarNaTomadaDeTresPinos do novo fornecedor.
+
+É possível perceber que o cliente faz uma chamada usando a tomada de dois pinos, mas na realidade esta chamada está sendo adaptada para uma tomada de três pinos. Assim temos duas interfaces que não eram compatíveis que agora conseguem "conversar" entre si, normalmente.
 
