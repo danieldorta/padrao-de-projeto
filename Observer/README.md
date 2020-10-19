@@ -19,13 +19,15 @@ O utilizam também quando a mudança de um objeto pode influenciar na mudança d
 
 ## Structure and Participants
 
-Publischer: envia os eventos assinados (de interesse) para os outros objetos.
+![example](https://user-images.githubusercontent.com/71103252/96522633-2609fa00-124a-11eb-8e48-154ae630bc8e.png)
 
-Subscriber interface: declara a interface de notificação, na maioria das vezes só possui o método "update".
+**Publischer:** envia os eventos assinados (de interesse) para os outros objetos.
 
-Convrete Subscribers: são eles que realizam ações quando eles recebem uma atualização da publicadora (Publisher). Implementam a mesma interface que a publicadora.
+**Subscriber interface:** declara a interface de notificação, na maioria das vezes só possui o método "update".
 
-Client: Quem cria a publicadora e os objetos assinantes, em seguida ele atualiza tudo para que as assinaturas sejam registradas pela publicadora e ela consiga executar suas funções.
+**Convrete Subscribers:** são eles que realizam ações quando eles recebem uma atualização da publicadora (Publisher). Implementam a mesma interface que a publicadora.
+
+**Client:** Quem cria a publicadora e os objetos assinantes, em seguida ele atualiza tudo para que as assinaturas sejam registradas pela publicadora e ela consiga executar suas funções.
 
 ## Sample code 
 
