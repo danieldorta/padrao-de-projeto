@@ -19,7 +19,7 @@ O utilizam também quando a mudança de um objeto pode influenciar na mudança d
 
 ## Structure and Participants
 
-![example](https://user-images.githubusercontent.com/71103252/96522633-2609fa00-124a-11eb-8e48-154ae630bc8e.png)
+![structure](https://user-images.githubusercontent.com/71103252/96522704-610c2d80-124a-11eb-84a4-8631039546ec.png)
 
 **Publischer:** envia os eventos assinados (de interesse) para os outros objetos.
 
