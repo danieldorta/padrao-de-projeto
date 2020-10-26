@@ -31,5 +31,10 @@ O utilizam também quando a mudança de um objeto pode influenciar na mudança d
 
 ## Sample code 
 
+[Link para o código exemplo do padrão Observer](https://github.com/danieldorta/padrao-de-projeto/tree/master/Observer/exemplo)
 
+O código apresentado acima foi retirado do site [Thiengo](https://www.thiengo.com.br/padrao-de-projeto-observer) e nele podemos observar uma estação meteorológica que fornece alguns dados, são eles: Temperatura, Umidade e Pressão.
+
+Existem outras três entidades que serão responsáveis de mostrar ao usuário os resultados dos cálculos realizados com os dados fornecidos acima. Essas entidades necessitam dos dados atualizados dessa estação, logo, a cada nova atualização na estação essas entidades precisam ser informadas.
+ 
 
