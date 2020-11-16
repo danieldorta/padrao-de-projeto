@@ -13,7 +13,9 @@ O padrão Strategy tem como objetivo gerenciar as lógicas condicionais do algor
 Usado com o objetivo de diminuir ou remover a lógica condicional, simplificar classes, entre outras vantagens, porém, valé lembrar que esse só é aplicado em alguns casos, são eles:
 
 -Quando uma classe possui muitos "if's" (condicionais, que são movidas para o Strategy).
+
 -Caso seja necessário criar váriantes para um algoritmo
+
 -E por fim, quando ocultar ao usuário dados mais complexos é necessário para deixar seu código mais "clean".
 
 ## Structure and Participants
