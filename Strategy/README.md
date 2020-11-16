@@ -30,4 +30,8 @@ Usado com o objetivo de diminuir ou remover a lógica condicional, simplificar c
 
 ## Sample code 
 
+[Link para o código exemplo do padrão Strategy](https://github.com/danieldorta/padrao-de-projeto/tree/master/Strategy/exemplo)
+
+Nesse exemplo retirado da página do [Wikipedia](https://pt.wikipedia.org/wiki/Strategy) que trata sobre o assunto do padrão em questão, temos a implementação de um algoritmo que calcula o valor da comissão de cada funcionário, no entanto, esse valor difere dependendo do cargo do funcionário.
+
 
