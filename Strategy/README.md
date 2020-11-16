@@ -7,7 +7,7 @@ Comportamental
 Definir um conjunto de algoritmos intercambiáveis e torna-los independentes dos clientes que os utilizam. 
 
 ## Motivation
-O padrão Strategy tem como objetivo gerenciar as lógicas condicionais do algoritmo, vale lembrar, que as lógicas condicionais são de longe uma das estruturas mais complexas usadas no desenvolvimento de software. O padrão Strategy pode parece muito com o padrão State, no entanto no caso do Strategy, existe a necessidade de uma estrutura de herança e cada subclasse dessa herança seria uma váriação do algoritmo.
+O padrão Strategy tem como objetivo gerenciar as lógicas condicionais do algoritmo, vale lembrar, que as lógicas condicionais são de longe uma das estruturas mais complexas usadas no desenvolvimento de software. O padrão Strategy pode parece muito com o padrão State, no entanto o state é usado para guardar um estado (por exemplo, numa sequencia de tratamento de determinado dado, é comum ter vários estados. Assim, o estado é alterado várias vezes). Já o strategy é feito para selecionar algoritmos diferentes de tratamento de dados. Ou seja, não é esperado que sua implementação mude muito numa mesma sequência de tratamento.
 
 ## Applicability
 Usado com o objetivo de diminuir ou remover a lógica condicional, simplificar classes, entre outras vantagens, porém, valé lembrar que esse só é aplicado em alguns casos, são eles:
