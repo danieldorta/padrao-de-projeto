@@ -20,6 +20,13 @@ Usado com o objetivo de diminuir ou remover a lógica condicional, simplificar c
 
 ## Structure and Participants
 
+![09j782i4d422a779bkf7907oi3950ab95fe613edf46f2c3cebb61d52d3](https://user-images.githubusercontent.com/71103252/99288245-131f2100-281a-11eb-8288-b06131d37921.jpg)
+
+**Strategy:** Interface comum a todas as subclasses para chamar uma das classes StrategyConcreto.
+
+**StrategyConcreto:** Herda a classe de Strategy
+
+**Contexto:** interface que acessa um dos algoritmos das subclasses de Strategy.
 
 ## Sample code 
 
