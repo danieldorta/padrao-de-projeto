@@ -19,6 +19,11 @@ Vale lembrar que o State não usado apenas quando uma classe possui muitos estad
 
 ## Structure and Participants
 
+![StateColorido](https://user-images.githubusercontent.com/71103252/99283191-6b065980-2813-11eb-9156-b78c986d9d8d.jpg)
+
+**Contexto:** armazena uma referência de algum objeto concreto e especifíca a ele os trabalhos do estado.
+**Estado:** tem a função de declarar as funções especifícas.
+**Estado concreto:** faz com que os métodos especifícos recebam as implementações do próprio estado concreto.
 
 ## Sample code 
 
