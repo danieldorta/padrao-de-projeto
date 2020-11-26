@@ -38,4 +38,4 @@ Por fim, ele também é utilizado para economizar recursos, reutilizando objetos
 
 [Link para o exemplo do padrão de projeto em questão](https://github.com/danieldorta/padrao-de-projeto/tree/master/Factory%20Method/exemplo), retirado do blog [Thiengo](https://www.thiengo.com.br/padrao-de-projeto-factory-method)
 
-Nesse exemplo podemos ver como ficaria a implementação do padrão Factory Method numa pizzaria onde os métodos comuns que estavam dentro da extinta classe Pizzaria poderão ser acessados pelas instâncias de PizzaFactorySaoPaulo e PizzaFactoryRioDeJaneiro, pois esses métodos comuns estão agora em PizzaFactory.
+Nesse exemplo podemos ver como ficaria a implementação do padrão Factory Method numa pizzaria onde os métodos comuns que estavam dentro da extinta classe Pizzaria poderão ser acessados pelas instâncias de PizzaFactorySaoPaulo e PizzaFactoryRioDeJaneiro, já que esses métodos comuns estão agora em PizzaFactory.
