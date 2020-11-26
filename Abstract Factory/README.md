@@ -16,6 +16,8 @@ O abstract factory é muito utilizado quando possuímos um código que precisa t
 
 ## Structure and Participants
 
+![structure](https://user-images.githubusercontent.com/71103252/100380050-d52db400-2ff4-11eb-9e6f-38f27562e975.png)
+
 **Produtos Abstratos:** declaram as interfaces para objetos distintos mas que fazem parte da mesma familía
 
 **Produtos Concretos:** implementações de produtos abstratos unidos pelas variantes
