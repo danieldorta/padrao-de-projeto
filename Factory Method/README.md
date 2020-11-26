@@ -24,6 +24,8 @@ Por fim, ele também é utilizado para economizar recursos, reutilizando objetos
 
 ## Structure and Participants
 
+![structure](https://user-images.githubusercontent.com/71103252/100393742-7c244700-3019-11eb-93f4-cfe182911ca1.png)
+
 **Produto:** declara a interface comum a todos os objetos
 
 **Produto Concretos:** implementações que se diferem da interface produto
