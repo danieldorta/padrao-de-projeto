@@ -30,3 +30,8 @@ O abstract factory é muito utilizado quando possuímos um código que precisa t
 
 ## Sample code 
 
+[Link para o código exemplo](https://github.com/danieldorta/padrao-de-projeto/tree/master/Abstract%20Factory/exemplo), retirado do Blog de [Marcos Brizeno](https://brizeno.wordpress.com/category/padroes-de-projeto/abstract-factory/)
+
+Nesse exemplo temos uma fábrica de carros que faz carros de determinada marca (Fiat) e alguns modelos (Sedan e Populares). Os produtos são divididos em dois grupos e cada um deles possui um conjunto de atributos e métodos próprios.
+
+Feito isso, através das referências para uma fábrica abstrata, somos capazes de chamar o que quisermos dependendo da nossa necessidade.
